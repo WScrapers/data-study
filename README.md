@@ -1,4 +1,4 @@
-# data_study
+# data-study
 ## 개요
 - 데이터를 다루고 논문을 작성하는 법에 대한 스터디
 
@@ -48,7 +48,7 @@
 ## 리뷰어는 어떻게 논문을 심사하는가?
 논문 작성 초기 단계에서 실제 논문 심사를 하는 리뷰어들이 어떤 checklist를 가지고 방법론을 바라보는지 생각해보면 아주 유리함. 다음의 링크는 텍스트 데이터를 분석하는 데 있어서 발생할 수 있는 여러가지 맹점이나 방법론적인 허술함을 방지하기 위한 레퍼런스로 유용함. 리뷰어가 채점하는(?) 법
 
-[https://www.routledge.com/The-Routledge-Reviewers-Guide-to-Mixed-Methods-Analysis/Onwuegbuzie-Johnson/p/book/9781138305274](https://www.routledge.com/The-Routledge-Reviewers-Guide-to-Mixed-Methods-Analysis/Onwuegbuzie-Johnson/p/book/9781138305274
+[https://www.routledge.com/The-Routledge-Reviewers-Guide-to-Mixed-Methods-Analysis/Onwuegbuzie-Johnson/p/book/9781138305274](https://www.routledge.com/The-Routledge-Reviewers-Guide-to-Mixed-Methods-Analysis/Onwuegbuzie-Johnson/p/book/9781138305274)
 
 
 ## 참가자
