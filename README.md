@@ -17,3 +17,9 @@
 - 데이터 시각화
     + matplotlib: 그래프를 그리기 위한 도구. 자유도가 높음
     + seaborn: matplotlib을 기반으로 만들어진 도구. 상대적으로 자유도가 낮은 대신 간결하고 효율적으로 시각화 가능
+
+## Python x VSC x pylint 
+- 가상환경을 설정해놓고 거기에 패키지를 깔아놓으면 각각의 가상환경에서 셋팅해놓은 설정값 안에서 돌아가기 때문에 충돌이 벌어지지 않음
+   + 유용한 링크: https://ddochea.tistory.com/33
+- 작성한 코드를 자동적으로 변환해주는 프로그램 (formatting)이나 오타가 발생할 때마다 잡아주는 lint를 알아두면 협업에 유리하고 다른 사람들이 쉽게 이해할 수 있는 코드 작성이 가능함
+   + 유용한 링크: https://jhyeok.com/python-with-vscode/
