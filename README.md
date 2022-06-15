@@ -17,3 +17,15 @@
 - 데이터 시각화
     + matplotlib: 그래프를 그리기 위한 도구. 자유도가 높음
     + seaborn: matplotlib을 기반으로 만들어진 도구. 상대적으로 자유도가 낮은 대신 간결하고 효율적으로 시각화 가능
+
+## Python x VSC x pylint 
+- 가상환경을 설정해놓고 거기에 패키지를 깔아놓으면 각각의 가상환경에서 셋팅해놓은 설정값 안에서 돌아가기 때문에 충돌이 벌어지지 않음
+   + 유용한 링크: https://ddochea.tistory.com/33
+- 작성한 코드를 자동적으로 변환해주는 프로그램 (formatting)이나 오타가 발생할 때마다 잡아주는 lint를 알아두면 협업에 유리하고 다른 사람들이 쉽게 이해할 수 있는 코드 작성이 가능함
+   + 유용한 링크: https://jhyeok.com/python-with-vscode/
+
+## 재현 가능한 연구 (replicable study)
+- 기존의 연구자들이 자신들의 연구결과까지 도출하기 위한 (1) 컴퓨팅 환경 (e.g., 패키지 버전, 라이브러리 버전, docker처럼 아예 독립적인 가상환경을 만들어서 똑같이 재현가능하게 함), (2) 데이터 셋, (3) 코드를 완벽하게 공개하지 않았다면, 최근의 저널들은 재현 가능한 연구를 위해 세 가지 조건을 모두 공개하는 것을 권장함. 공개를 하는 것과 별개로 다른 사람들이 이해하기 쉽고 연구자 개인이 프로젝트를 작은 단위로 쪼개서 매니지하기 위한 능력이 너무나도 중요함. 
+   + 유용한 링크 [1]: https://python-guide-kr.readthedocs.io/ko/latest/writing/structure.html
+   + 유용한 링크 [2]: https://ddochea.tistory.com/33](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+   + 유용한 링크 [3]: https://medium.com/the-stata-guide/the-stata-workflow-guide
